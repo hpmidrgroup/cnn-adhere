@@ -4,6 +4,8 @@
 
 __author__ = "Bryant Rodriguez"
 __credits__ = ["Chris Fotache, Sean Psulkowski"]
+#A large portion of this code was adapted from Chris Fotache's blog:
+#https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5
 
 __license__ = "MIT"
 __version__ = "0.9"
